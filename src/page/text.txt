@@ -1,0 +1,49 @@
+ <Switch>
+   
+                <Route exact path="/">
+                  <Redirect to="/Home" />
+                </Route>
+                <Route path='/DrawerButton0'>
+                  <Redirect to="/Home"/>
+                </Route> 
+                <Route path='/Home' component={home} />
+                
+                <Route path='/DrawerButton1'>
+                  <Redirect to='/Announcements'/>
+                </Route> 
+                <Route path='/Announcements' component={BasicTabs}/>
+
+                <Route path='/DrawerButton2'>
+                  <Redirect to='/Calendar'/>
+                </Route> 
+                <Route path='/Calendar' component={Calendar}/>
+
+                <Route path='/DrawerButton3'>
+                  <Redirect to='/Help'/>
+                </Route> 
+                <Route path='/Help' component={Help}/>
+
+                <Route path='/Courses/:courseID' component={CourseHome}/>
+                <Route path='/CourseConfig/:courseID' component={CourseConfig}/>
+                <Route path='/Lectures/:courseID' component={CourseLectures}/>
+                <Route path='/Tutorials/:courseID' component={CourseTutorials}/>
+                <Route path='/Labs/:courseID' component={CourseLabs}/>
+                
+                <Route path='/Announcement/:courseID' component={CourseAnnouncements}/>
+                <Route path='/Assignments/:courseID' component={CourseAssignments}/>
+                <Route path='/Examination/:courseID' component={CourseExamination}/>
+                <Route path='/Gradebook/:courseID' component={CourseGradebook}/>
+                <Route path='/Sylabus/:courseID' component={CourseSylabus}/>
+                <Route path='/Resources/:courseID' component={CourseResources}/>
+
+                <Route path='/Assignments' component={Assignments}/>
+                <Route path='/Forums' component={Forums}/>
+                <Route path='/Tutors' component={Tutors}/>
+                <Route path='/Gradebook' component={Gradebook}/>
+                <Route path='/Gradebook2' component={Gradebook2}/>
+                <Route path='/Profile' component={Profile}/>
+                <Route path='/Account' component={Account}/>
+                <Route path='/Dashboard' component={Dashboard}/>
+                <Route path='/Testing' component={Testing}/>
+
+      </Switch>

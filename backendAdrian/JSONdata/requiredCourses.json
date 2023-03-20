@@ -1,0 +1,36 @@
+{
+  "Software Engineering" :  {
+    "name": "Software Engineering",
+    "required" : [
+      {"id": 1235555, "courseName": "SE5554", "description": "Cool software class", "credits": 0.5},
+      {"id": 4422455, "courseName": "SE3322", "description": "Silly software class", "credits": 0.5},
+      {"id": 4567777, "courseName": "SE1222", "description": "Funky computers", "credits": 0.5},
+      {"id": 9993332, "courseName": "ES3355", "description": "Cool hardware", "credits": 0.5}
+    ],
+    "technicalElectives": true,
+    "recommended" : [
+      {"id": 8244444, "courseName": "SE1223", "description": "I like courses", "credits": 0.5},
+      {"id": 8244544, "courseName": "CS2234", "description": "I like computer science", "credits": 0.5}
+    ],
+    "totalCredits" : 3,
+    "totalModuleCredits": 2,
+    "totalElectiveCredits": 1
+  },
+  "Musical Studies" :  {
+    "name": "Musical Studies",
+    "required" : [
+      {"id": 5125433, "courseName": "MS2233", "description": "Cool music", "credits": 0.5},
+      {"id": 1233333, "courseName": "MS5587", "description": "Rap music", "credits": 1.0},
+      {"id": 6234554, "courseName": "MS1122", "description": "EDM music", "credits": 1.0},
+      {"id": 9866665, "courseName": "EG1244", "description": "Music Theory", "credits": 0.5}
+    ],
+    "technicalElectives": false,
+    "recommended" : [
+      {"id": 8244444, "courseName": "CL1222", "description": "I like music", "credits": 0.5},
+      {"id": 8244544, "courseName": "MS2333", "description": "I like music science", "credits": 0.5}
+    ],
+    "totalCredits": 3.5,
+    "totalModuleCredits": 3,
+    "totalElectiveCredits": 0.5
+  }
+}

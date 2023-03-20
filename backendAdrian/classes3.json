@@ -1,0 +1,157 @@
+{
+  "courses": [
+    {
+      "courseCode": "SE 3394",
+      "assignments": [
+        {
+          "name": "Assignment 1",
+          "grade": 96,
+          "weight": 0.1,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        },
+        {
+          "name": "Assignment 2",
+          "grade": 92.5,
+          "weight": 0.15,
+          "due": "11/01/2022",
+          "submitted": "10/15/2022"
+        }
+      ],
+      "quizzes": [
+        {
+          "name": "Government Quiz",
+          "grade": 34,
+          "weight": 0.1,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        }
+      ],
+      "labs": [
+        {
+          "name": "Lab 1",
+          "grade": 76,
+          "weight": 0.15,
+          "due": "9/14/2022",
+          "submitted": "9/15/2022"
+        }
+      ],
+      "exams": [
+        {
+          "name": "Midterm Exam",
+          "grade": 88,
+          "weight": 0.5,
+          "due": "10/15/2022",
+          "submitted": "10/08/2022"
+        }
+      ],
+      "courseName": "Management",
+      "term": "2022W",
+      "sections": "2",
+      "tutorialGroups": "3",
+      "labGroups": "0",
+      "profs": [
+        "Charles W. Drake"
+      ]
+    },
+    {
+      "courseCode": "SE 3362",
+      "assignments": [
+        {
+          "name": "Assignment 1",
+          "grade": 96,
+          "weight": 0.2,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        }
+      ],
+      "quizzes": [
+        {
+          "name": "Quiz 1",
+          "grade": 56,
+          "weight": 0.2,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        },
+        {
+          "name": "Quiz 2",
+          "grade": 92.5,
+          "weight": 0.2,
+          "due": "11/01/2022",
+          "submitted": "10/15/2022"
+        }
+      ],
+      "labs": [
+        {
+          "name": "Lab 1",
+          "grade": 43,
+          "weight": 0.2,
+          "due": "9/14/2022",
+          "submitted": "9/15/2022"
+        }
+      ],
+      "exams": [
+        {
+          "name": "Final Exam",
+          "grade": 88,
+          "weight": 0.2,
+          "due": "10/15/2022",
+          "submitted": "10/08/2022"
+        }
+      ],
+      "courseName": "Design",
+      "term": "2022W",
+      "sections": "1",
+      "tutorialGroups": "0",
+      "labGroups": "0",
+      "profs": [
+        "Charles W. Drake"
+      ]
+    },
+    {
+      "courseCode": "SE 3314",
+      "assignments": [],
+      "quizzes": [],
+      "labs": [],
+      "exams": [
+        {
+          "name": "Midterm Exam",
+          "grade": 96,
+          "weight": 0.6,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        },
+        {
+          "name": "Final Exam",
+          "grade": 56,
+          "weight": 0.4,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        }
+      ],
+      "courseName": "Networking",
+      "term": "2021F",
+      "sections": "1",
+      "tutorialGroups": "2",
+      "labGroups": "3",
+      "profs": [
+        "Eric D. Horton"
+      ]
+    },
+    {
+      "courseCode": "SE 3318",
+      "assignments": [],
+      "quizzes": [],
+      "labs": [],
+      "exams": [],
+      "courseName": "Test",
+      "term": "2019F",
+      "sections": "1",
+      "tutorialGroups": "0",
+      "labGroups": "0",
+      "profs": [
+        "Jesse H. Marquis"
+      ]
+    }
+  ]
+}

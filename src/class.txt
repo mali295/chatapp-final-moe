@@ -1,0 +1,2 @@
+
+[{"gradeItem": "Exam","name": "Midterm Exam","grade": 96,"weight": 0.6,"due": "10/01/2022","submitted": "9/30/2022"},{"gradeItem": "Exam","name": "Final Exam","grade": 56,"weight": 0.4,"due": "10/7/2022","submitted": "9/10/2022"}]

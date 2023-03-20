@@ -1,0 +1,18 @@
+{
+    "teachingStaff": [
+        {
+            "profs":[
+                {"name": "Charles W. Drake"},
+                {"name": "Paul B. Jenkens"},
+                {"name": "Eric D. Horton"},
+                {"name": "Jesse H. Marquis"}
+            ]
+        },{
+            "tas":[
+                {"name": "Devin T. Strong"},
+                {"name": "Hayden B. Russel"},
+                {"name": "Jake S. Becar"}
+            ]
+        }
+    ]
+}

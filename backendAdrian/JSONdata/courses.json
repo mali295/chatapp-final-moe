@@ -1,0 +1,9 @@
+{
+  "2510445588" : [
+    {"id": 1235555, "courseName": "SE5554", "grade": 90, "description": "Cool software class", "credits": 0.5, "status": "Passed"},
+    {"id": 1143555, "courseName": "SE2234", "grade": 60, "credits": 0.5, "description": "Software cool course 2", "status": "In Progress" },
+    {"id": 1004432, "courseName": "SE2257", "grade": 30, "credits": 0.5, "description": "Computer learning", "status": "Failed" },
+    {"id": 6234554, "courseName": "MS1122", "grade": 85, "description": "EDM music", "credits": 1.0, "status": "Passed"},
+    {"id": 9866665, "courseName": "EG1244", "grade": 82.4, "description": "Music Theory", "credits": 0.5, "status": "Passed"}
+  ]
+}

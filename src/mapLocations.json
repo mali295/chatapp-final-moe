@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "Event Data: EDM Night Toronto" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 960,
+          "FACILITYID": 28014,
+          "NAME": "Social Science Centre",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "This area is only for Staff and Artists"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.0095678315786, -81.27515964238935]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1219,
+          "FACILITYID": 28001,
+          "NAME": "D.B. Weldon Library",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "Entry for General admission tickets only. All access to Staff and Vendors"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.00805366000297, -81.2755458804024]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1157,
+          "FACILITYID": 28002,
+          "NAME": "Schulich School of Medicine & Dentistry",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "Entry for VVIP/VIP tickets only. All access to Staff and Artists"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.01010131317684, -81.27471976007583]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 9,
+          "FACILITYID": 28006,
+          "NAME": "Amit Chakma Engineering Building",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "Only for General admission (GA). Full access to Staff and Vendors"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [ 43.004679982862406, -81.27643637372002 ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1160,
+          "FACILITYID": 28007,
+          "NAME": "VVIP/ VIP Area",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "Only for VIP and VVIP guests. Full access to Staff and Artists."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [ -79.380292, 43.656030]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1693,
+          "FACILITYID": 28016,
+          "NAME": "Bar Area",
+          "DATE": "27th January 2020",
+          "LOCATION": "Yonge-Dundas Square Toronto",
+          "HOURS": "6PM-10PM",
+          "ACCESS_TYPES": "STAFF and ARTISTS ONLY",
+          "ZONE_TYPE": "IN",
+          "ENTRACE_CONNCTED":true,
+          "NEAREST_ENTRANCE": "1",
+          "BAR": true,
+          "FOOD": true,
+          "LANES": 10,
+          "DESCRIPTIO": "Alcoholic beverages served to only 19+ after looking at a photo ID."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.380423, 43.656132]
+        }
+      }
+  
+    ]
+  }

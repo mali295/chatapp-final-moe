@@ -1,0 +1,37 @@
+{"data":[
+    {
+        "gradeItem": "Assignment",
+        "name": "Assignment 1",
+        "grade": 96,
+        "weight": 0.2,
+        "due": "10/01/2022",
+        "submitted": "9/30/2022"
+    },{
+        "gradeItem": "Quiz",
+        "name": "Government Quiz",
+        "grade": 34,
+        "weight": 0.1,
+        "due": "10/7/2022",
+        "submitted": "9/10/2022"
+    },{
+        "gradeItem": "Exam",
+        "name": "Midterm Exam",
+        "grade": 88,
+        "weight": 0.5,
+        "due": "10/15/2022",
+        "submitted": "10/08/2022"
+    },{
+        "gradeItem": "Lab",
+        "name": "Lab 1",
+        "grade": 76,
+        "weight": 0.05,
+        "due": "9/14/2022",
+        "submitted": "9/15/2022"
+    },{
+        "gradeItem": "Assignment",
+        "name": "Assignment 2",
+        "grade": 92.5,
+        "weight": 0.15,
+        "due": "11/01/2022",
+        "submitted": "10/15/2022"}
+]}

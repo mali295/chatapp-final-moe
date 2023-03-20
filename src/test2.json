@@ -1,0 +1,38 @@
+{"data":[
+    {
+        "gradeItem": "Assignment",
+        "name": "Assignment 1",
+        "grade": 96,
+        "weight": 0.2,
+        "due": "10/01/2022",
+        "submitted": "9/30/2022"
+    },{
+        "gradeItem": "Quiz",
+        "name": "Quiz 1",
+        "grade": 56,
+        "weight": 0.2,
+        "due": "10/7/2022",
+        "submitted": "9/10/2022"
+    },{
+        "gradeItem": "Exam",
+        "name": "Final Exam",
+        "grade": 88,
+        "weight": 0.2,
+        "due": "10/15/2022",
+        "submitted": "10/08/2022"
+    },{
+        "gradeItem": "Lab",
+        "name": "Lab 1",
+        "grade": 43,
+        "weight": 0.2,
+        "due": "9/14/2022",
+        "submitted": "9/15/2022"
+    },{
+        "gradeItem": "Quiz",
+        "name": "Quiz 2",
+        "grade": 92.5,
+        "weight": 0.2,
+        "due": "11/01/2022",
+        "submitted": "10/15/2022"
+    }
+]}

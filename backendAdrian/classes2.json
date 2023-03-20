@@ -1,0 +1,194 @@
+{
+  "courses": [
+    {
+      "courseCode": "SE 3394",
+      "assignments": [
+        {
+          "name": "Assignment 1",
+          "grade": 96,
+          "weight": 0.1,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        },
+        {
+          "name": "Assignment 2",
+          "grade": 92.5,
+          "weight": 0.15,
+          "due": "11/01/2022",
+          "submitted": "10/15/2022"
+        }
+      ],
+      "quizzes": [
+        {
+          "name": "Government Quiz",
+          "grade": 34,
+          "weight": 0.1,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        }
+      ],
+      "labs": [
+        {
+          "name": "Lab 1",
+          "grade": 76,
+          "weight": 0.15,
+          "due": "9/14/2022",
+          "submitted": "9/15/2022"
+        }
+      ],
+      "exams": [
+        {
+          "name": "Midterm Exam",
+          "grade": 88,
+          "weight": 0.5,
+          "due": "10/15/2022",
+          "submitted": "10/08/2022"
+        }
+      ],
+      "courseName": "Management",
+      "term": "2022W",
+      "sections": "2",
+      "sectionProfs": [],
+      "tutorialGroups": "3",
+      "tutorialProfs": [],
+      "labGroups": "0",
+      "labProfs": [],
+      "prof": [
+        "Charles W. Drake"
+      ]
+    },
+    {
+      "courseCode": "SE 3362",
+      "assignments": [
+        {
+          "name": "Assignment 1",
+          "grade": 96,
+          "weight": 0.2,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        }
+      ],
+      "quizzes": [
+        {
+          "name": "Quiz 1",
+          "grade": 56,
+          "weight": 0.2,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        },
+        {
+          "name": "Quiz 2",
+          "grade": 92.5,
+          "weight": 0.2,
+          "due": "11/01/2022",
+          "submitted": "10/15/2022"
+        }
+      ],
+      "labs": [
+        {
+          "name": "Lab 1",
+          "grade": 43,
+          "weight": 0.2,
+          "due": "9/14/2022",
+          "submitted": "9/15/2022"
+        }
+      ],
+      "exams": [
+        {
+          "name": "Final Exam",
+          "grade": 88,
+          "weight": 0.2,
+          "due": "10/15/2022",
+          "submitted": "10/08/2022"
+        }
+      ],
+      "courseName": "Design",
+      "term": "2022W",
+      "sections": "1",
+      "sectionProfs": [],
+      "tutorialGroups": "0",
+      "tutorialProfs": [],
+      "labGroups": "0",
+      "labProfs": [],
+      "prof": [
+        "Charles W. Drake"
+      ]
+    },
+    {
+      "courseCode": "SE 3314",
+      "assignments": [],
+      "quizzes": [],
+      "labs": [],
+      "exams": [
+        {
+          "name": "Midterm Exam",
+          "grade": 96,
+          "weight": 0.6,
+          "due": "10/01/2022",
+          "submitted": "9/30/2022"
+        },
+        {
+          "name": "Final Exam",
+          "grade": 56,
+          "weight": 0.4,
+          "due": "10/7/2022",
+          "submitted": "9/10/2022"
+        }
+      ],
+      "courseName": "Networking",
+      "term": "2021F",
+      "sections": "1",
+      "sectionProfs": [],
+      "tutorialGroups": "2",
+      "tutorialProfs": [],
+      "labGroups": "3",
+      "labProfs": [],
+      "prof": [
+        "Eric D. Horton"
+      ]
+    },
+    {
+      "courseCode": "SE 3395",
+      "assignments": [],
+      "quizzes": [],
+      "labs": [],
+      "exams": [],
+      "courseName": "Intro to bopit",
+      "term": "2019F",
+      "sections": "2",
+      "sectionProfs": [
+        "1:Charles W. Drake",
+        "2:Eric D. Horton"
+      ],
+      "tutorialGroups": "1",
+      "tutorialProfs": [
+        "1:Jesse H. Marquis"
+      ],
+      "labGroups": "1",
+      "labProfs": [
+        "1:Paul B. Jenkens"
+      ],
+      "prof": "Jesse H. Marquis"
+    },
+    {
+      "courseCode": "SE 3310",
+      "assignments": [],
+      "quizzes": [],
+      "labs": [],
+      "exams": [],
+      "courseName": "Intro to bopit",
+      "term": "2019F",
+      "sections": "1",
+      "sectionProfs": [
+        "1:Eric D. Horton"
+      ],
+      "tutorialGroups": "1",
+      "tutorialProfs": [
+        "1:Jesse H. Marquis"
+      ],
+      "labGroups": "0",
+      "labProfs": [],
+      "prof": "Paul B. Jenkens"
+    }
+  ]
+}
